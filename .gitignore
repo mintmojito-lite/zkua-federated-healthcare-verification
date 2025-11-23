@@ -6,3 +6,6 @@ __pycache__/
 *.pkl
 *.pt
 *.onnx
+.venv/
+__pycache__/
+*.pyc
